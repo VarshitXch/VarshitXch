@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🎓 B.Tech at NIT Rourkela | Aspiring Data Analyst  
+📊 Passionate about solving real-world problems with data  
+🛠️ Skilled in Python, SQL, Power BI, Excel, and Statistics  
+📈 Projects in market research, sustainability, and real estate  
+🚀 Open to internships and analyst roles | Let's connect!
 <!--
 **VarshitXch/VarshitXch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
