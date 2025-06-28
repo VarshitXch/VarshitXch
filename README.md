@@ -10,7 +10,7 @@ I'm Varshit Chouhan, a pre-final year B.Tech student at NIT Rourkela, with a kee
 
 🔍 I love transforming data into actionable insights  
 📊 Tools I use: Python, Pandas, Matplotlib, Power BI, MySQL  
-📁 Check out my case studies on Pet Parenting, Real Estate, and Retail  
+📁 Check out my Case Studies, Python Scripts and PowerBi Dashboards
 🏆 Vice President - Analytics & Consulting Club, NIT Rourkela  
 🎯 Open to data analyst internships or projects for Summer/Winter 2025
 
